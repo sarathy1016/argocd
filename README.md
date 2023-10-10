@@ -1,0 +1,2 @@
+# argocd
+practise argo cd
